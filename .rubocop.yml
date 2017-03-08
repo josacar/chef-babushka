@@ -1,0 +1,6 @@
+Style/DotPosition:
+  EnforcedStyle: trailing
+
+AllCops:
+  Exclude:
+    - 'README.md'
