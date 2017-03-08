@@ -2,6 +2,10 @@
 
 Chef cookbook to install babushka
 
+## Requirements
+
+- Ruby runtime
+
 ## Supported Platforms
 
 - Debian
