@@ -10,7 +10,7 @@ describe 'babushka::default' do
     expect(git).to be
     expect(git.repository).to eq('https://github.com/benhoskings/babushka.git')
     expect(git.action).to eq([:sync])
-    expect(git.revision).to eq('0.19.1')
+    expect(git.revision).to eq('v0.19.1')
   end
 
   it 'links babushka binary to /usr/local/bin' do
