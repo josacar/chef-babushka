@@ -1,10 +1,10 @@
-name             'babushka'
-maintainer       'Jose Luis Salas'
+name 'babushka'
+maintainer 'Jose Luis Salas'
 maintainer_email 'josacar@gmail.com'
-license          'MIT'
-description      'Installs/Configures babushka'
-long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.1'
+license 'MIT'
+description 'Installs/Configures babushka'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version '0.1.2'
 
 supports 'debian'
 supports 'ubuntu'
